@@ -1,0 +1,15 @@
+html{
+height: 100%;
+}
+ul{
+list-style: none;
+padding: 0;
+margin: 0;
+}
+body{
+margin: 0;
+height: 100%;
+background: #000;
+display: flex;
+perspective: 800px;
+}
